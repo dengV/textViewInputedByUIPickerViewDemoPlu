@@ -44,7 +44,7 @@
     
     UIButton *btn = [UIButton buttonWithType:UIButtonTypeRoundedRect];
     btn.frame = CGRectMake(20, 55, 280, 50);
-    [btn setTitle:@"Click, then input" forState:UIControlStateNormal];
+    [btn setTitle:@"Click, Choose to input" forState:UIControlStateNormal];
     [btn addTarget:self action:@selector(getData) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
     
