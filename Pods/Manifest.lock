@@ -1,0 +1,18 @@
+PODS:
+  - Masonry (1.0.2)
+  - SKTagView (0.9.2)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - Masonry
+  - SKTagView
+  - YYText
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SKTagView: 59cdadcd16e4a09300746ad1811a72371e1327f7
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 2a184e71e130e4e06bbc7a45e0a481027b18a280
+
+COCOAPODS: 1.1.1

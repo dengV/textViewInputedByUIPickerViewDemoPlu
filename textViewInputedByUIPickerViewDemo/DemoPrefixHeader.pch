@@ -1,0 +1,25 @@
+//
+//  DemoPrefixHeader.pch
+//  textViewInputedByUIPickerViewDemo
+//
+//  Created by dengzheyibu on 2017/4/5.
+//  Copyright © 2017年 dengzheyibu. All rights reserved.
+//
+
+#ifndef DemoPrefixHeader_pch
+#define DemoPrefixHeader_pch
+
+
+
+# if __OBJC__
+
+#define kScreenWidth  [[UIScreen mainScreen] bounds].size.width
+#define kScreenHeight  [[UIScreen mainScreen] bounds].size.height
+
+#import "ZheUtil.h"
+#import "UIKit/UIKit.h"
+
+#endif
+
+
+#endif /* DemoPrefixHeader_pch */
